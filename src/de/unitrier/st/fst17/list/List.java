@@ -1,5 +1,5 @@
 package de.unitrier.st.fst17.list;
-
+// Goriar
 /**
  * Doppelt verkettete Liste.
  */
