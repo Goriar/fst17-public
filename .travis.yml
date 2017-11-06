@@ -1,5 +1,11 @@
 language: java
 
+notifications:
+  email:
+    recipients:
+      - goriar.cb@gmail.com
+    on_success: always # default: change
+    on_failure: always # default: always
 #addons:
 #  sonarcloud:
 #    organization: "sbaltes-github"
