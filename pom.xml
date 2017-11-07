@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <name>FST17 Public</name>
-    <groupId>de.unitrier.st.fst17public</groupId>
+    <groupId>de.unitrier.st.fst17goriar</groupId>
     <artifactId>list</artifactId>
     <version>0.1</version>
     <url>https://github.com/sbaltes/fst17-public</url>
